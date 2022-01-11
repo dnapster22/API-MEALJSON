@@ -1,6 +1,6 @@
 [
   {
-    "name": "Bilat & Otin",
+    "name": "Sinigang & Pork",
     "type": "Snack",
     "macros": {
       "fat": 0.2,
@@ -8,7 +8,7 @@
       "carbs": 19.8
     },
     "ingredients": [
-      "125g of Tulos Yogurt",
+      "125g of Yogurt",
       "1 Apple"
     ]
   },
@@ -26,7 +26,7 @@
     ]
   },
   {
-    "name": "Totoy Mix",
+    "name": "Fruit Mix",
     "type": "Snack",
     "macros": {
       "fat": 6.2,
